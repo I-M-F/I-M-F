@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @MatimuIgnatius
 - 👀 I’m interested in Ethereum Blockchain Development.
-- 🌱 I’m currently learning Solidity, Smart Contract, DeFi, Multi Sig Wallet, Dapps, Truffle, Ganache  and Web3.js 
-- 💞️ I’m looking to collaborate on blockchain development 
+- 🌱 I’m currently learning core concepts in blockchain, smart contracts, solidity, NFTs/ERC721s, ERC20s, Coding Decentralized Finance (DeFi), python and solidity, Chainlink, Ethereum, upgradable smart contracts, and full stack blockchain development.
+- 💞️ I’m looking to collaborate on blockchain development Dapps
 - 📫 How to reach me matimu.f.ignatius@gmail.com
+ 
 
 <!---
 I-M-F/I-M-F is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
